@@ -2,7 +2,8 @@
 
 ## Hola, soy Cris Filgueira 👋  
 ### UX/UI Designer & Full Stack Developer.
-[![Visita mi web](https://img.shields.io/badge/Visita%20mi%20web-criscdesign.com-blue?style=for-the-badge)](https://criscdesign.com)
+[![Visita mi web](https://img.shields.io/badge/Visita%20mi%20web-https%3A%2F%2Fcriscdesign.com-white?style=for-the-badge&logo=globe&logoColor=black)](https://criscdesign.com)
+
 
 
 </div>
