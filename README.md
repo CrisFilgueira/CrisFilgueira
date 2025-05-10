@@ -2,9 +2,10 @@
 
 ## Hola, soy Cris Filgueira 👋  
 ### UX/UI Designer & Full Stack Developer.
-[![Visita mi web](https://img.shields.io/badge/Visita%20mi%20web-https%3A%2F%2Fcriscdesign.com-white?style=for-the-badge&logo=globe&logoColor=black)](https://criscdesign.com)
 
+<br>
 
+[![Visita mi web](https://img.shields.io/badge/Visita%20mi%20web-ffffff?style=for-the-badge&logo=globe&logoColor=000000)](https://criscdesign.com)
 
 </div>
 
@@ -17,7 +18,6 @@
 
 ## 🛠️ Stack
 
-- **Frontend / Backend:** HTML · CSS · JavaScript · React · Node.js · Express · Tailwind 
-- **Base de datos:** SQL 
+- **Frontend / Backend:** HTML · CSS · JavaScript · React · Node.js · Express · Tailwind  
+- **Base de datos:** SQL  
 - **Herramientas:** Figma · Canva · Notion · GitHub · Postman · VS Code · MySQL
-
