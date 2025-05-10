@@ -8,7 +8,7 @@
 - 🔄 Combino habilidades técnicas en desarrollo y diseño para crear experiencias digitales.
 - 🚀 Siempre en aprendizaje continuo y abierta a nuevos retos y tecnologías.
 
-## 🛠️ Stack actual
+## 🛠️ Stack 
 
 - **Frontend / Backend:**  HTML · CSS · JavaScript · React · Node.js · Express · Tailwind 
 - **Base de datos:** SQL 
