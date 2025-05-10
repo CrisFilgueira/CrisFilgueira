@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola, soy Cris Filgueira 👋 UX/UI Designer & Full Stack Developer.
 
-<!--
-**CrisFilgueira/CrisFilgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Background en **UX/UI Design** con foco en diseño accesible, intuitivo y responsive.
+- 🧠 Formación Full Stack: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **SQL**.
+- 🔄 Combino habilidades técnicas en desarrollo y diseño para crear experiencias digitales.
+- 🚀 Siempre en aprendizaje continuo y abierta a nuevos retos y tecnologías.
+
+## 🛠️ Stack actual
+
+- **Frontend / Backend:**  HTML · CSS · JavaScript · React · Node.js · Express · Tailwind 
+- **Base de datos:** SQL 
+- **Herramientas:** Figma · Canva · Notion · GitHub · Postman · VS Code · MySQL
