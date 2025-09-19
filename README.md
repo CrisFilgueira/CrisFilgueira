@@ -2,8 +2,8 @@
 
 ## Hola, soy Cris Filgueira 👋  
 ### UX | UI Design 
-#### Full Stack Development 
-#### IA & Automatización
+### Full Stack Development 
+### IA & Automatización
 
 <br>
 
