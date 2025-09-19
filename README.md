@@ -21,4 +21,4 @@
 
 - **Frontend / Backend:** HTML · CSS · JavaScript · React · Node.js · Express · Tailwind  
 - **Base de datos:** SQL  
-- **Herramientas:** Figma · Canva · Notion · GitHub · Postman · VS Code · MySQL
+- **Herramientas:** Figma · Canva · Notion · GitHub · Postman · VS Code · MySQL · n8n · ManyChat
