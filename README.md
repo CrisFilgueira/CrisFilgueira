@@ -1,7 +1,9 @@
 <div align="center">
 
 ## Hola, soy Cris Filgueira 👋  
-### UX/UI Designer & Full Stack Developer.
+### UX | UI Design 
+Full Stack Development 
+IA & Automatización
 
 <br>
 
